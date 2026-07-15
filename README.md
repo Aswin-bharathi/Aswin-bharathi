@@ -3,9 +3,9 @@
 Software developer focusing on web development, data analysis, and backend services. I build practical, student-level web applications and tools that solve everyday problems and help me learn full-stack development.
 
 - Email: asanth2712@gmail.com
-- Pronouns: He/Him
-- Location: (add your city/country)
-- LinkedIn / Portfolio: (add links if available)
+- Pronouns: He
+- Location: (Srivilliputtur/India)
+- LinkedIn / Portfolio: aswin-bharathi.netlify.app
 
 ---
 
